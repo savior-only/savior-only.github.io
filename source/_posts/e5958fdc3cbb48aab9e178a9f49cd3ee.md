@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 命令执行
+title: DNS外带数据之命令执行
 abbrlink: e5958fdc3cbb48aab9e178a9f49cd3ee
 tags: []
 categories:
@@ -8,7 +8,7 @@ categories:
   - 漏洞姿势
   - DNS外带数据
 date: 1735051384702
-updated: 1735051384702
+updated: 1735228130542
 ---
 
 # Linux
