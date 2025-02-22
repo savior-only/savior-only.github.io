@@ -1,4 +1,3 @@
-```yaml:/Users/master/文档/开发语言学习/s/.github/workflows/deploy.yml
 on:
   # Runs on pushes targeting the `main` branch. Change this to `master` if you're
   # using the `master` branch as the default branch.
@@ -62,4 +61,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-```
